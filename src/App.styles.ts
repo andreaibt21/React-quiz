@@ -85,7 +85,8 @@ a{
   
   @media (max-width: 700px) {
     h1 {
-      font-size:  65px;
+      font-size:  35px;
+      margin-top: 20px;
     }
    
   }
